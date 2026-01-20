@@ -1,16 +1,21 @@
-## Hi there 👋
+# Nélü ✨
 
-<!--
-**Nelu-Dev/Nelu-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build thoughtful software.  
+Turning chaos into clean, scalable systems people enjoy.
 
-Here are some ideas to get you started:
+Software, for me, is not just code — it’s a way of thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care deeply about:
+- 🧠 Architecture and long-term design
+- 🧪 Testing, correctness and clarity
+- 🧩 Complex domains made simple
+- 🎨 UX in systems that usually ignore it
+- 🤖 AI as craft, not as shortcut
+
+I enjoy building things that:
+- Stay understandable after years
+- Feel calm to work with
+- Respect the human on the other side
+
+> “Clean code is not about being clever.  
+> It’s about being kind to the next mind that reads it.”
